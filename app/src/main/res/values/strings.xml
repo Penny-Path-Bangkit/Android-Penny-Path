@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Penny Path</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="message_welcome_page">Mau belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding aja!</string>
+    <string name="title_welcome_page">Welcome to Penny Path!</string>
+    <string name="title_signup_page">Please complete your personal data</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please enter your data first</string>
+    <string name="title_login_page">Ready to manage your money?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Log Out</string>
+
+</resources>
